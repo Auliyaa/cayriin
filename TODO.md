@@ -1,0 +1,5 @@
+- yuv/rgb(a) XXX planar/packed 8/10/16 bits reader
+- P210 or so with U & V planes packed together
+- NV12
+- libvmaf
+- delta-e
